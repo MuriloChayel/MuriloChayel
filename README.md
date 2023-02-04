@@ -19,4 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=murilochayel&show_icons=true&locale=en&layout=compact" alt="murilochayel" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=murilochayel&show_icons=true&theme=dracula&title_color=ffffff&text_color=ff0059&bg_color=08222b&locale=en" alt="murilochayel" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=murilochayel&show_icons=true&theme=dracula&title_color=ffffff&text_color=ee00ff&bg_color=00080a&locale=en" alt="murilochayel" /></p>
