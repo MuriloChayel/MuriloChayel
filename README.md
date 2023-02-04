@@ -1,10 +1,6 @@
 <h1 align="center">Hi! I'm Murilo Chayel</h1>
 <h3 align="center">A technical artist and game developer 0/</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=murilochayel&label=Profile%20views&color=0e75b6&style=flat" alt="murilochayel" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murilochayel" alt="murilochayel" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://portfull-app.vercel.app/](https://portfull-app.vercel.app/)
 
 - 📫 How to reach me **murilochayel@gmail.com**
