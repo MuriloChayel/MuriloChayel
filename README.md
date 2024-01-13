@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Murilo Chayel</h1>
 <h3 align="center">A technical artist and game developer 0/</h3>
 
-- 👨‍💻 All of my projects are available at [https://portfull-app.vercel.app/](https://murilochayel.com/)
+- 👨‍💻 All of my projects are available at [murilochayel.com](https://murilochayel.com/)
 
 - 📫 How to reach me **murilochayel@gmail.com**
 
